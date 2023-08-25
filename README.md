@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kwasii1
-- 👀 I’m interested in Web development and design 
-- 🌱 I’m currently learning php and Javascript 
+- 👀 I’m interested in Web development and Machine Learning
+- Laravel and NodeJS website developer
+- 🌱 I’m currently machine learning with TensorFlow
 - 💞️ I’m looking to collaborate on a website project 
 - 📫 How to reach me : Email kesbijnr@gmail.com 
 
